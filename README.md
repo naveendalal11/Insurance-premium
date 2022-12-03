@@ -1,2 +1,2 @@
 # Insurance-premium
-prdicting insurance premium using ANN Regression
+predicting insurance premium using ANN Regression
